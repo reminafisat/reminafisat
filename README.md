@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @reminafisat
+- 👀 I’m interested in programming challenges
+- 🌱 I’m currently learning Machine learning
+- 💞️ I’m looking to collaborate on Javascript and python
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Just live
